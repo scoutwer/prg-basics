@@ -1,0 +1,12 @@
+[
+    {
+        "name": "ewrg",
+        "price": 244.0,
+        "paid": true
+    },
+    {
+        "name": "sdfsddgf",
+        "price": 24.0,
+        "paid": false
+    }
+]
